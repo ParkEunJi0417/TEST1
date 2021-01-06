@@ -1,5 +1,5 @@
 **/.screenshots
-**/ErrLog/*.jpeg
-**/ErrLog/*.xlsx
+**/ErrLog/**/*.jpeg
+**/ErrLog/**/*.xlsx
 **/명령어
 **/Test
